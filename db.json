@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Bogdan",
+            "surname": "Shevchenko",
+            "photo_url": "https://picsum.photos/id/1/200/300",
+            "balance": 1000000
+        }
     ]
 }
